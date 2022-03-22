@@ -1,0 +1,5 @@
+#include "varibles\varibles_swing.c"
+#include "varibles\varibles_updown.c"
+#include "varibles\varibles_claw.c"
+#include "varibles\varibles_lift.c"
+#include "varibles\varibles_RT_move.c"
